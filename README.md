@@ -11,3 +11,10 @@ Simple React Lightbox gives you the ability to add a lightbox functionality on a
 
 => used beacuse on clicking any photo ,put arrows on the left and right side to navigate to the previous and next photo respectively and zoomin,zoomout the image or close the image.
 
+#load images on DOM
+=>used lds-hourglass loader.
+https://loading.io/css
+
+#Masonry layout
+=> Diplayed the image in Masonry layout
+=>install 'react-masonry-css '
