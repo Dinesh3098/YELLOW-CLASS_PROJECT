@@ -1,4 +1,4 @@
-#Writing a README samples
+# Writing a README samples
 
 A sample readme for the yellow class project which is infinite scroll image.
 
